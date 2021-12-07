@@ -1,19 +1,13 @@
 ---
-layout: post
+layout: full
 title: spring学习笔记
 date: 2021-12-07 12:07:00 +0800
 category: tutorial
 thumbnail: /style/image/thumbnail.png
 icon: book
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
+* content
+  {:toc}
 
 ## 需要逐渐掌握的思想
 
