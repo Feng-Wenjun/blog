@@ -20,6 +20,3 @@ comments :
     repo : 
     owner : 
     admin : 
-    
- markdown: rdiscount
- pygments: true
