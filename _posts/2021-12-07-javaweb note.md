@@ -6,9 +6,6 @@ category: tutorial
 thumbnail: /style/image/thumbnail.png
 icon: book
 ---
-* content
-  {:toc}
-
 ## 需要逐渐掌握的思想
 
 "依赖注入"是实现"控制反转"的一种方法,如果说"控制反转"是一种设计思想,那"依赖注入"是就是这种思想的一种实现,通过注入参数或实例的方式实现控制反转
