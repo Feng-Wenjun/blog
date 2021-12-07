@@ -6,14 +6,8 @@ category: tutorial
 thumbnail: /style/image/thumbnail.png
 icon: book
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
+* content
+  {:toc}
 
 ## 需要逐渐掌握的思想
 
